@@ -2,7 +2,14 @@
 
 Este es un proyecto de conversión de monedas que permite a los usuarios convertir valores entre diferentes divisas utilizando la API de [ExchangeRate-API](https://www.exchangerate-api.com) para obtener los tipos de cambio en tiempo real. La aplicación tiene una interfaz sencilla que facilita la selección de monedas base y destino, así como la entrada de cantidades a convertir.
 
-## Estructura del Proyecto
+## Demo del Proyecto
+
+Puedes ver una breve demostración de la interfaz y sus validaciones en el siguiente video:
+
+[![Demo del Proyecto](https://img.youtube.com/vi/U6BxQSERRDM/0.jpg)](https://youtu.be/U6BxQSERRDM)
+
+
+## Estructura 
 
 El proyecto está organizado en varias clases Java que cumplen funciones específicas:
 
