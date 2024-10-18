@@ -1,6 +1,6 @@
 # ONE Currency API
 
-Este es un proyecto de conversión de monedas que permite a los usuarios convertir valores entre diferentes divisas utilizando una API para obtener tasas de cambio en tiempo real. La aplicación tiene una interfaz sencilla que facilita la selección de monedas base y destino, así como la entrada de cantidades a convertir.
+Este es un proyecto de conversión de monedas que permite a los usuarios convertir valores entre diferentes divisas utilizando la API de [ExchangeRate-API](https://www.exchangerate-api.com) para obtener los tipos de cambio en tiempo real. La aplicación tiene una interfaz sencilla que facilita la selección de monedas base y destino, así como la entrada de cantidades a convertir.
 
 ## Estructura del Proyecto
 
@@ -53,6 +53,10 @@ El proyecto está organizado en varias clases Java que cumplen funciones especí
 5. Configura tu clave de API en ApiCredentials.java.
 
 6. Compila y ejecuta el proyecto.
+
+## Referencias
+
+- API utilizada: [ExchangeRate-API](https://www.exchangerate-api.com)
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor crea un fork y envía un pull request.
