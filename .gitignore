@@ -29,3 +29,5 @@ ApiCredentials.java
 .idea/
 out/
 *.iml
+
+/src/com/alurachallenge/ignore/ApiCredentials.java
